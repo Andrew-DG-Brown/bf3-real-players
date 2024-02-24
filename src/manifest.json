@@ -3,7 +3,6 @@
   "name": "BF3 Battlelog Player Count Validator",
   "version": "0.0.1",
   "description": "Displays accurate player count in Battlefield 3 battlelog server list",
-  "permissions": ["activeTab"],
   "icons": {
     "16": "images/icons/icon_16.png",
     "32": "images/icons/icon_32.png",
