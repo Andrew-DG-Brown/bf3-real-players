@@ -4,7 +4,7 @@ Displays accurate player count in Battlefield 3 battlelog server list.
 
 ![Alt text](./src/images/real-player-count.jpg)
 
-Chrome Extension available [here](https://twitter.com/dompizzie)
+Chrome Extension available [here](https://chromewebstore.google.com/detail/bf3-battlelog-player-coun/pbciggcfhkkglkfibebcigojfkefkdkk)
 
 ## Description
 
